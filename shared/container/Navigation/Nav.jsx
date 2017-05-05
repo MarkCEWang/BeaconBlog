@@ -17,7 +17,7 @@ class NavBar extends Component {
     return (
       <div className="nav_bar">
         <h2 className="web-head">
-         <Link to="/" className="web-title">Good</Link>
+         <Link to="/" className="web-title">Blair House</Link>
         </h2>
         <ButtonToolbar bsClass="buttonBar">
           <Button bsStyle="primary">Sign up</Button>
